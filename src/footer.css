@@ -1,0 +1,24 @@
+.footer{
+    background-color: gray;
+}
+.prevbtn{
+    color: #fff!important;
+    background-color: #655858!important;
+    padding: 15px 30px;
+    border: none;
+}
+.nxtbtn{
+    color: #fff!important;
+    background-color: #000!important;
+    padding: 15px 30px;
+    border: none;
+}
+.btns{
+    margin-left: 10px;
+    margin-top: 10px;
+    display: flex;
+    gap: 10px;
+}
+.para{
+    margin-left: 10px;
+}

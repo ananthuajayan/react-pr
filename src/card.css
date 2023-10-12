@@ -1,0 +1,46 @@
+.card{
+    box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.5);
+    background-color: white;
+    /* padding-bottom: 10px; */
+    display: flex;
+    flex-direction: column;
+}
+.card h2{
+    text-align: left;
+    padding: 15px;
+    margin: unset;
+    font-size: 25px;
+    font-weight: 400;
+}
+.pop{
+    background-color: rgb(201, 194, 194);
+    
+}
+.postimg{
+    display: flex;
+    gap: 15px;
+    padding: 15px;
+    border-bottom: 1px solid lightgray;
+}
+.subimg{
+    width: 50px;
+    height: 50px;
+}
+.subhead h4{
+    margin: unset;
+}
+.subhead h5{
+    margin: unset;
+}
+.subhead{
+    padding-top: 10px;
+}
+.datas{
+    padding: 1px 5px;
+    background-color: lightgray;
+}
+.imgleft img{
+    height: 200px;
+    /* background-color: aqua; */
+    object-fit: cover;
+}

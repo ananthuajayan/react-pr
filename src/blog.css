@@ -1,0 +1,32 @@
+img{
+    width: 100%;
+    object-fit: cover;
+}
+.blogFooter{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 15px;
+
+}
+.comments{
+    float: right;
+}
+.heading{
+    margin: 15px;
+}
+.blogFooter button{
+    padding: 15px;
+}
+.comments span{
+    padding: 3px 6px;
+    background-color: black;
+    color: antiquewhite;
+}
+.full{
+    background-color: white;
+    box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.5);
+}
+.ful{
+    background-color: white;
+    margin: 0;
+}

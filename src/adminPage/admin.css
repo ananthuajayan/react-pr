@@ -1,0 +1,27 @@
+.admin{
+    display: flex;
+    gap: 30px;
+}
+.textBox{
+    display: flex;
+    flex-direction: column;
+    width: 40%;
+    gap: 10px;
+    padding: 50px 0px;
+}
+.displayArea{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    padding: 50px 0px;
+}
+.details{
+    padding: 10px;
+    border-radius: 5px;
+}
+.blogbtn{
+    padding: 10px;
+    background-color: blue;
+    color: white;
+    border-radius: 5px;
+}
